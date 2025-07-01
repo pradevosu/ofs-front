@@ -1,4 +1,4 @@
-osu-french-scores-front
+# osu-french-scores-front
 
 Front React de osu! French Scores
 
